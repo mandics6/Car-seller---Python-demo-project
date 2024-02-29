@@ -6,5 +6,6 @@ praćenje stanja i prometa svih transakcija u salonu. Projekat će obuhvatiti im
 funkcionalnosti, uključujući evidenciju vozila, praćenje prodaje i generisanje. Ovo će omogućiti efikasno
 upravljanje automobilskim salonom i olakšati praćenje svih relevantnih podataka i poslovnih operacija.
 
+
 Cilj ovog projektnog zadatka je pokazati stečeno znanje prilikom pohađanja „Basic Python“ kursa.
 Ovaj projekat će obuhvatiti sve ključne oblasti koje su bile predmet kursa.
