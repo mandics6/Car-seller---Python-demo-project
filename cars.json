@@ -1,0 +1,53 @@
+{
+    "cars": [
+        {
+            "brand": "Toyota",
+            "model": "Camry",
+            "type": "Limousine",
+            "year": 2022,
+            "price": 25000
+        },
+        {
+            "brand": "Honda",
+            "model": "Civic",
+            "type": "Limousine",
+            "year": 2022,
+            "price": 22000
+        },
+        {
+            "brand": "Ford",
+            "model": "F-150",
+            "type": "Limousine",
+            "year": 2022,
+            "price": 35000
+        },
+        {
+            "brand": "Chevrolet",
+            "model": "Malibu",
+            "type": "Limousine",
+            "year": 2022,
+            "price": 27000
+        },
+        {
+            "brand": "Nissan",
+            "model": "Altima",
+            "type": "Limousine",
+            "year": 2022,
+            "price": 24000
+        },
+        {
+            "brand": "Volkswagen",
+            "model": "Passat",
+            "type": "Caravan",
+            "year": 2019,
+            "price": 18000
+        },
+        {
+            "brand": "Porsche",
+            "model": "911 Carrera",
+            "type": "Cabrio",
+            "year": 2020,
+            "price": 138000
+        }
+    ]
+}
